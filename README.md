@@ -1,2 +1,3 @@
-# Flower-of-Life-using-CSS
-An attempt to Drawing the Flower of Life using CSS
+# Illustrating responsive Animated Flowers of Life using CSS
+
+Live solution: https://rami24t.github.io/Flower-of-Life-using-CSS/ 
